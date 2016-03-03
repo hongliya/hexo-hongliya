@@ -11,6 +11,8 @@ Sublime Text 2 和 Sublime Text 3 的安装和卸载方式是一样的，这里�
 
 Mac下的 Sublime Text 插件安装位置
 
+<!-- more -->
+
 1.通过命令打开
 
 ```

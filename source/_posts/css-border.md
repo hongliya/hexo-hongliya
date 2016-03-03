@@ -18,6 +18,8 @@ tags: 'css'
 }
 ```
 
+<!-- more -->
+
 效果是这样的：
 
 ![image](/assets/postimg/border1.png)

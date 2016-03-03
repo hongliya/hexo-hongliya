@@ -9,6 +9,7 @@ tags: 'sublime'
 
 编辑器版本：Sublime Text 2
 
+<!-- more -->
 
 ```
 {
