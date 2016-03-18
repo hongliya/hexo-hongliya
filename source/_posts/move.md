@@ -219,9 +219,159 @@ tags: '看书'
 			<td>Mr.Zhu</td>
 			<td>2016-03-03</td>
 			<td>周四</td>
+			<td>《永不放弃》</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-04</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class=""></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-05</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-06</td>
+			<td>周日</td>
+			<td>《永不放弃》</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-07</td>
+			<td>周一</td>
+			<td>练习生成二维码</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-08</td>
+			<td>周二</td>
+			<td>练习使用uipageview</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-09</td>
+			<td>周三</td>
+			<td>《代码整洁之道》第5章</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-10</td>
+			<td>周四</td>
+			<td>研究uipageview细节</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-11</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-12</td>
+			<td>周六</td>
+			<td>代码整洁之道</td>
+			<td>90分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-13</td>
+			<td>周日</td>
+			<td>整理工作资料、看代码、用多种方式实现功能</td>
+			<td>3小时+</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-14</td>
+			<td>周一</td>
+			<td>整理预演第二天要开发的功能</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-15</td>
+			<td>周二</td>
+			<td>学习使用uidearchbar</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-16</td>
+			<td>周三</td>
+			<td>kvc的使用</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-17</td>
+			<td>周四</td>
+			<td>熟悉自定义emoji表情</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-18</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg"></td>
 			<td class="color-warning">应看30分钟</td>
 			<td></td>
 		</tr>
@@ -377,10 +527,160 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-03</td>
 			<td>周四</td>
-			<td></td>
-			<td></td>
-			<td class=""></td>
+			<td>border及box-sizing属性</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
 			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-04</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-05</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-06</td>
+			<td>周日</td>
+			<td>《微表情心理学》</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-07</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-08</td>
+			<td>周二</td>
+			<td>《微表情心理学》54% + 疯狂动物城影评</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-09</td>
+			<td>周三</td>
+			<td>dw视频5、6两节</td>
+			<td>45分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-10</td>
+			<td>周四</td>
+			<td>dw视频7、8两节</td>
+			<td>50分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-11</td>
+			<td>周五</td>
+			<td>dw视频7、8两节</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-12</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-13</td>
+			<td>周日</td>
+			<td>《Head First html与css》第一章</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-14</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-15</td>
+			<td>周二</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-16</td>
+			<td>周三</td>
+			<td>dw视频案例两个</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-17</td>
+			<td>周四</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-18</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg"></td>
+			<td class="color-warning">应看60分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -537,8 +837,158 @@ tags: '看书'
 			<td>周四</td>
 			<td></td>
 			<td></td>
-			<td class=""></td>
+			<td class="bg-danger"></td>
 			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-04</td>
+			<td>周五</td>
+			<td>《Head First HTML与CSS第二版》前3章</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-05</td>
+			<td>周六</td>
+			<td>《Head First HTML与CSS第二版》第4、5章</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-06</td>
+			<td>周日</td>
+			<td>《Head First HTML与CSS第二版》第6章</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-07</td>
+			<td>周一</td>
+			<td>《Head First HTML与CSS第二版》第12章</td>
+			<td>45分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-08</td>
+			<td>周二</td>
+			<td>《Head First HTML与CSS第二版》第13章</td>
+			<td>45分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-09</td>
+			<td>周三</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-10</td>
+			<td>周四</td>
+			<td>《Head First HTML5 Programming》前三章</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-11</td>
+			<td>周五</td>
+			<td>《Head First HTML5 Programming》第五章 地理定位</td>
+			<td>50分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-12</td>
+			<td>周六</td>
+			<td>《Head First HTML5 Programming》第五章 地理定位</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-13</td>
+			<td>周日</td>
+			<td>《Head First HTML5 Programming》第五章 地理定位 Google Map</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-14</td>
+			<td>周一</td>
+			<td>《Head First HTML5 Programming》第六章 通讯API</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-15</td>
+			<td>周二</td>
+			<td>《Head First HTML5 Programming》第七章 画布API</td>
+			<td>45分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-16</td>
+			<td>周三</td>
+			<td>《Head First HTML5 Programming》第七章 画布API</td>
+			<td>20分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td>差10分钟</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-17</td>
+			<td>周四</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看10*2+30=50分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-18</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg"></td>
+			<td class="color-warning">应看100分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
