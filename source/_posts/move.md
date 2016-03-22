@@ -399,6 +399,16 @@ tags: '看书'
 			<td>Mr.Zhu</td>
 			<td>2016-03-21</td>
 			<td>周一</td>
+			<td>《代码整洁之道》</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-22</td>
+			<td>周二</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
@@ -737,10 +747,20 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-21</td>
 			<td>周一</td>
+			<td>李炎恢 html5视频教程</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>差30分钟</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-22</td>
+			<td>周二</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
-			<td class="color-warning">应看60分钟</td>
+			<td class="color-warning">应看90分钟 = 30*2+30</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -1080,6 +1100,16 @@ tags: '看书'
 			<td class="bg"></td>
 			<td class="color-warning">应看60分钟</td>
 			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-22</td>
+			<td>周二</td>
+			<td>Node.js URL API和HTTP</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
 		</tr>
 	</tbody>
 </table>
