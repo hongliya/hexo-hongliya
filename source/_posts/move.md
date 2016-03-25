@@ -409,6 +409,36 @@ tags: '看书'
 			<td>Mr.Zhu</td>
 			<td>2016-03-22</td>
 			<td>周二</td>
+			<td>《代码整洁之道》</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-23</td>
+			<td>周三</td>
+			<td>NSPredicate的使用</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-24</td>
+			<td>周四</td>
+			<td>调试程序</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-25</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
@@ -757,10 +787,40 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-22</td>
 			<td>周二</td>
+			<td>李炎恢 视频教程 表单元素</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看90分钟 = 30 x 2+30</td>
+			<td>差30分钟留到3月25日补</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-23</td>
+			<td>周三</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-24</td>
+			<td>周四</td>
+			<td>李炎恢 视频教程 css选择器</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-25</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
-			<td class="color-warning">应看90分钟 = 30*2+30</td>
+			<td class="color-warning">应看60分钟 补21号的</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -1058,7 +1118,7 @@ tags: '看书'
 			<td></td>
 			<td></td>
 			<td class="bg-danger"></td>
-			<td class="color-warning">应看10*2+30=50分钟</td>
+			<td class="color-warning">应看10 x 2+30=50分钟</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -1095,21 +1155,51 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-03-21</td>
 			<td>周一</td>
-			<td></td>
-			<td></td>
-			<td class="bg"></td>
+			<td>Node.js URL API、HTTP</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
 			<td class="color-warning">应看60分钟</td>
-			<td></td>
+			<td>完成累计</td>
 		</tr>
 		<tr>
 			<td>sugar</td>
 			<td>2016-03-22</td>
 			<td>周二</td>
-			<td>Node.js URL API和HTTP</td>
-			<td>60分钟</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-23</td>
+			<td>周三</td>
+			<td>《Head First HTML5 Programming》第九章 本地存储API</td>
+			<td>80分钟</td>
 			<td class="bg-success"></td>
 			<td class="color-warning">应看60分钟</td>
 			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-24</td>
+			<td>周四</td>
+			<td>《Head First HTML5 Programming》第九章 本地存储API</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-25</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
