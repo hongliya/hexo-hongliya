@@ -441,6 +441,36 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-26</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-27</td>
+			<td>周日</td>
+			<td>调整搜索逻辑</td>
+			<td>3h</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-28</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
 			<td class="bg"></td>
 			<td class="color-warning">应看30分钟</td>
 			<td></td>
@@ -817,10 +847,40 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-25</td>
 			<td>周五</td>
+			<td>李炎恢 视频教程 颜色、单位样式</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟 补21号的</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-26</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-27</td>
+			<td>周日</td>
+			<td>李炎恢 视频教程 盒模型</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-28</td>
+			<td>周一</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
-			<td class="color-warning">应看60分钟 补21号的</td>
+			<td class="color-warning">应看30分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -1195,6 +1255,36 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-03-25</td>
 			<td>周五</td>
+			<td>《Head First HTML5 Programming》第九章 本地存储 清除localStorage</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-26</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-27</td>
+			<td>周日</td>
+			<td>《怦然心动的人生整理魔法》</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-28</td>
+			<td>周一</td>
 			<td></td>
 			<td></td>
 			<td class="bg-"></td>
