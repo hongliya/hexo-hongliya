@@ -469,6 +469,26 @@ tags: '看书'
 			<td>Mr.Zhu</td>
 			<td>2016-03-28</td>
 			<td>周一</td>
+			<td>网络协议</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-29</td>
+			<td>周二</td>
+			<td>熟悉文档对比工具</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-30</td>
+			<td>周三</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
@@ -877,10 +897,30 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-28</td>
 			<td>周一</td>
+			<td>李炎恢 视频教程</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-29</td>
+			<td>周二</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-30</td>
+			<td>周三</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
-			<td class="color-warning">应看30分钟</td>
+			<td class="color-warning">应看60分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -1285,6 +1325,26 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-03-28</td>
 			<td>周一</td>
+			<td>《怦然心动的人生整理魔法》</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-29</td>
+			<td>周二</td>
+			<td>《JavaScript高级程序设计》第一章</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-30</td>
+			<td>周三</td>
 			<td></td>
 			<td></td>
 			<td class="bg-"></td>
