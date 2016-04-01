@@ -489,6 +489,26 @@ tags: '看书'
 			<td>Mr.Zhu</td>
 			<td>2016-03-30</td>
 			<td>周三</td>
+			<td>研究emoji表情的正则判断，排除评论无法@用户的bug</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-03-31</td>
+			<td>周四</td>
+			<td>代码整洁之道</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-01</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
@@ -917,6 +937,26 @@ tags: '看书'
 			<td>lulu</td>
 			<td>2016-03-30</td>
 			<td>周三</td>
+			<td>李炎恢 视频教程 表格与列表</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-03-31</td>
+			<td>周四</td>
+			<td>李炎恢 视频教程 复习表单</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-01</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg"></td>
@@ -1345,6 +1385,26 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-03-30</td>
 			<td>周三</td>
+			<td>堆和栈</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-03-31</td>
+			<td>周四</td>
+			<td>堆和栈</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-01</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg-"></td>
