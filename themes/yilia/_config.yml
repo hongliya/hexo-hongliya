@@ -4,6 +4,7 @@ menu:
   全部: /archives
   技术: /categories/技术
   随笔: /categories/随笔
+  作品: /works
 
 # SubNav
 subnav:
@@ -50,8 +51,8 @@ share_addthis: false
 #不开启——
 # friends: false
 #开启——
-# friends:
-#   奥巴马的博客: http://localhost:4000/
+friends:
+  奥巴马的博客: http://localhost:4000/
 #   卡卡的美丽传说: http://localhost:4000/
 #   本泽马的博客: http://localhost:4000/
 #   吉格斯的博客: http://localhost:4000/
@@ -62,4 +63,4 @@ share_addthis: false
 #不开启——
 # aboutme: false
 #开启——
-# aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…

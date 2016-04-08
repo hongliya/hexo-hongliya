@@ -511,7 +511,77 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class="bg"></td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td>加班到12点免了</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-02</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-03</td>
+			<td>周日</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-04</td>
+			<td>周一</td>
+			<td>《代码整洁之道》完结</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-05</td>
+			<td>周二</td>
+			<td>永不放弃</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-06</td>
+			<td>周三</td>
+			<td>练习使用tableheaderview</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-07</td>
+			<td>周四</td>
+			<td>解决searchbar的bug</td>
+			<td>150分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-08</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-"></td>
 			<td class="color-warning">应看30分钟</td>
 			<td></td>
 		</tr>
@@ -959,7 +1029,77 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class="bg"></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-02</td>
+			<td>周六</td>
+			<td>文本效果与渐变</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-03</td>
+			<td>周日</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-04</td>
+			<td>周一</td>
+			<td>李炎恢 渐变效果</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-05</td>
+			<td>周二</td>
+			<td></td>
+			<td></td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-06</td>
+			<td>周三</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-07</td>
+			<td>周四</td>
+			<td>动画效果和布局</td>
+			<td>120分钟</td>
+			<td class="bg-"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-08</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-"></td>
 			<td class="color-warning">应看60分钟</td>
 			<td></td>
 		</tr>
@@ -1407,8 +1547,78 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class="bg-"></td>
+			<td class="bg-danger"></td>
 			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-02</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-03</td>
+			<td>周日</td>
+			<td>《JavaScript高级程序设计》引用类型</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-04</td>
+			<td>周一</td>
+			<td>《JavaScript高级程序设计》引用类型 Array类型</td>
+			<td>40分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-05</td>
+			<td>周二</td>
+			<td>《JavaScript高级程序设计》引用类型 Date类型、RegExp类型</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-06</td>
+			<td>周三</td>
+			<td>《JavaScript高级程序设计》引用类型 RegExp构造函数属性</td>
+			<td></td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-07</td>
+			<td>周四</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-08</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-"></td>
+			<td class="color-warning">应看60分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
