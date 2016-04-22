@@ -581,6 +581,146 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-09</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-10</td>
+			<td>周日</td>
+			<td>重写搜做功能</td>
+			<td>4h</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-11</td>
+			<td>周一</td>
+			<td>30分钟</td>
+			<td>开发进阶，整理书单</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-12</td>
+			<td>周二</td>
+			<td>《Ios开发进阶》80页 绘图</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-13</td>
+			<td>周三</td>
+			<td>《Ios开发进阶》180页</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-14</td>
+			<td>周四</td>
+			<td>《Ios开发进阶》233页</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-15</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-16</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-17</td>
+			<td>周日</td>
+			<td>重装系统，配置环境！</td>
+			<td>150分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-18</td>
+			<td>周一</td>
+			<td>Ios开发进阶 245页</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-19</td>
+			<td>周二</td>
+			<td>寻找数据异常的bug</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-20</td>
+			<td>周三</td>
+			<td>永不放弃 150页</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-21</td>
+			<td>周四</td>
+			<td>码农 8%</td>
+			<td>90分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-22</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
 			<td class="bg-"></td>
 			<td class="color-warning">应看30分钟</td>
 			<td></td>
@@ -1089,7 +1229,7 @@ tags: '看书'
 			<td>周四</td>
 			<td>动画效果和布局</td>
 			<td>120分钟</td>
-			<td class="bg-"></td>
+			<td class="bg-success"></td>
 			<td class="color-warning">应看120分钟</td>
 			<td>完成累计</td>
 		</tr>
@@ -1099,8 +1239,148 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class="bg-"></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-09</td>
+			<td>周六</td>
+			<td>多列布局与传统布局</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
 			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-10</td>
+			<td>周日</td>
+			<td>前缀与rem</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-11</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-12</td>
+			<td>周二</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-13</td>
+			<td>周三</td>
+			<td>了解弹性伸缩布局与emmet插件</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-14</td>
+			<td>周四</td>
+			<td>pc端固定布局实战</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-15</td>
+			<td>周五</td>
+			<td></td>
+			<td>30分钟</td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-16</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-17</td>
+			<td>周日</td>
+			<td>继续pc端固定布局实战</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-18</td>
+			<td>周一</td>
+			<td>Pc端固定布局上机练习</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-19</td>
+			<td>周二</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-20</td>
+			<td>周三</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-21</td>
+			<td>周四</td>
+			<td>研究用css3画小黄人</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-22</td>
+			<td>周五</td>
+			<td></td>
+			<td></td>
+			<td class="bg-"></td>
+			<td class="color-warning">应看30分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -1615,10 +1895,150 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-04-08</td>
 			<td>周五</td>
+			<td>《JavaScript高级程序设计》引用类型 Function类型</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-09</td>
+			<td>周六</td>
+			<td>《JavaScript高级程序设计》引用类型 基本包装类型</td>
+			<td>50分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-10</td>
+			<td>周日</td>
+			<td>《JavaScript高级程序设计》引用类型 单体内置对象</td>
+			<td></td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-11</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-12</td>
+			<td>周二</td>
+			<td>《JavaScript高级程序设计》面向对象 理解创建对象</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-13</td>
+			<td>周三</td>
+			<td>《JavaScript高级程序设计》面向对象 工厂模式</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-14</td>
+			<td>周四</td>
+			<td>《JavaScript高级程序设计》面向对象 原型模式</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-15</td>
+			<td>周五</td>
+			<td>《JavaScript高级程序设计》面向对象 原型与in操作</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-16</td>
+			<td>周六</td>
+			<td>《JavaScript高级程序设计》面向对象 原型的动态性</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-17</td>
+			<td>周日</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-18</td>
+			<td>周一</td>
+			<td>《JavaScript高级程序设计》面向对象 寄生构造函数</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-19</td>
+			<td>周二</td>
+			<td>《JavaScript高级程序设计》面向对象 继承</td>
+			<td>30分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-20</td>
+			<td>周三</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-21</td>
+			<td>周四</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-22</td>
+			<td>周五</td>
 			<td></td>
 			<td></td>
 			<td class="bg-"></td>
-			<td class="color-warning">应看60分钟</td>
+			<td class="color-warning">应看120分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
