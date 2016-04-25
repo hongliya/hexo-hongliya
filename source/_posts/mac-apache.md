@@ -2,7 +2,7 @@ title: 'mac配置apache'
 date: '2014-10-08'
 categories:
 	- '技术'
-tags: 'mac,apache'
+tags: 'apache'
 ---
 
 **启动apache**

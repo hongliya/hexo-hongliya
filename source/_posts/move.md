@@ -721,6 +721,36 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-23</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-24</td>
+			<td>周日</td>
+			<td>Effective objective C 2.0</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>Mr.Zhu</td>
+			<td>2016-04-25</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
 			<td class="bg-"></td>
 			<td class="color-warning">应看30分钟</td>
 			<td></td>
@@ -1379,8 +1409,38 @@ tags: '看书'
 			<td>周五</td>
 			<td></td>
 			<td></td>
-			<td class="bg-"></td>
+			<td class="bg-danger"></td>
 			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-23</td>
+			<td>周六</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看60分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-24</td>
+			<td>周日</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>lulu</td>
+			<td>2016-04-25</td>
+			<td>周一</td>
+			<td></td>
+			<td></td>
+			<td class="bg"></td>
+			<td class="color-warning">应看240分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -2035,10 +2095,40 @@ tags: '看书'
 			<td>sugar</td>
 			<td>2016-04-22</td>
 			<td>周五</td>
+			<td>《JavaScript高级程序设计》面向对象 深入理解继承</td>
+			<td>120分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看120分钟</td>
+			<td>完成累计</td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-23</td>
+			<td>周六</td>
+			<td>《JavaScript高级程序设计》面向对象 组合继承</td>
+			<td>60分钟</td>
+			<td class="bg-success"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-24</td>
+			<td>周日</td>
+			<td></td>
+			<td></td>
+			<td class="bg-danger"></td>
+			<td class="color-warning">应看30分钟</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>sugar</td>
+			<td>2016-04-25</td>
+			<td>周一</td>
 			<td></td>
 			<td></td>
 			<td class="bg-"></td>
-			<td class="color-warning">应看120分钟</td>
+			<td class="color-warning">应看60分钟</td>
 			<td></td>
 		</tr>
 	</tbody>
